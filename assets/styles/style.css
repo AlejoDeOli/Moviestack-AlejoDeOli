@@ -2,8 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    scrollbar-width: thin;
-  scrollbar-color: rgb(160, 160, 160) #334155;
 }
 html {
     min-height: 100vh;
@@ -11,3 +9,22 @@ html {
 .banner{
     box-shadow: 0 0 25px 0 rgb(0, 63, 114);
 }
+
+
+*{
+    scroll-padding-top: 9rem;
+    scroll-behavior: smooth;
+}
+
+*::-webkit-scrollbar{
+    width: 0.4rem;
+}
+
+*::-webkit-scrollbar-track{
+    background: transparent;
+}
+
+*::-webkit-scrollbar-thumb{
+    background-color: rgb(160, 160, 160);
+    border-radius: 5rem;
+} 
