@@ -1,4 +1,4 @@
-export {crearCard, filtrerForTitle, printOptions, filterForGenre, render}
+export {crearCard, filtrerForTitle, printOptions, filterForGenre, render}//Exportando Funciones
 
 
 function crearCard(movie){
@@ -11,14 +11,14 @@ function crearCard(movie){
         <a class="text-md underline text-purple-500" href="./detail.html?id=${movie.id}&name=${movie.title}">Details</a>
     </article>
     `;
-}
+}//Retorna la estructura de la card usada en index.js
 
 
 
 function filtrerForTitle(listMovie, title){
     return listMovie.filter( movie => movie.title.toLowerCase().startsWith(title.toLowerCase()) )
     
-}
+}//Filtra escribiendo, por titulo.
 
 
 const printOptions = function (array, elemento){
@@ -28,12 +28,12 @@ const printOptions = function (array, elemento){
         options += `<option value="${genre}">${genre}</option>`
     });
     elemento.innerHTML = `<option value="all">All Genres</option>` + options;
-};
+};//Crea las opciones dependiendo los generos.
 
 
 const filterForGenre = function (array, genre){
     return array.filter((movie) => movie.genres.includes(genre))
-}
+}//Filtra el Array de movies por genero.
 
 
 function render (array, elemento, fn){
@@ -42,4 +42,4 @@ function render (array, elemento, fn){
         template += fn(item)
     }
     elemento.innerHTML = template
-}
+}//Funcion para saber que array, donde y que funcion.
