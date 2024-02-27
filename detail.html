@@ -7,8 +7,9 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="./assets/styles/style.css">
     <link rel="shortcut icon" href="./assets/img/Moviestack_favicon.png" type="image/x-icon">
-    <title>Movies</title>
+    <title>Details</title>
 </head>
+
 <body class="bg-slate-900">
     <div>
         <header class="flex border-b-2 bg-slate-950 ">
@@ -18,30 +19,20 @@
             </div>
             <nav class="text-violet-950 sm:text-xl font-bold font-sans flex gap-5 items-center m-2 sm:m-10">
                 <a class="sm:p-1.5 border-2 border-solid border-white rounded-md bg-gray-500 hover:bg-white" href="./index.html">HOME</a>
-                <a class="sm:p-1.5 border-2 border-solid border-gray-600 rounded-md bg-white" href="#">MOVIES</a>
+                <a class="sm:p-1.5 border-2 border-solid border-hite rounded-md bg-gray-500 hover:bg-white" href="./movies.html">MOVIES</a>
                 <a class="sm:p-1.5 border-2 border-solid border-white rounded-md bg-gray-500 hover:bg-white" href="">FAVS</a>
             </nav>
         </header>
         <main>
             <img class="banner" class="w-auto" src="./assets/img/BANNER.png" alt="">
-            
-            <search class="flex justify-center">
-                <label class="m-5" for=""> 
-                    <input class="w-96 h-8" id="inputText" type="search" placeholder="Ej:The Nun II">
-                </label>
-               <div class="m-5" id="divSelect">
-                <select id="select" class="w-40 h-8">
-                    <option value="All Generes">All Generes</option>
-                    </select>
-               </div>
-            </search>
         </main>
 
     </div>
 
+
     <footer class="flex justify-center border-t-2 border-solid font-medium text-white py-2">Alejo De Oli / Cohort B2B050</footer>
 
     <script src="./data.js"></script>
-    <script src="./index.js" type="module"></script>
+    <script src="./detail.js"></script>
 </body>
 </html>

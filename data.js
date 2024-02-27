@@ -4,8 +4,8 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/y5szbv8zju.jpg",
       "genres": [
         "Horror",
-        "Mystery",
-        "Thriller"
+        " Mystery",
+        " Thriller"
       ],
       "original_language": "en",
       "overview": "In 1956 France, a priest is violently murdered, and Sister Irene begins to investigate. She once again comes face-to-face with a powerful evil.",
@@ -26,7 +26,7 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/vlzyyn9td8.jpg",
       "genres": [
         "Action",
-        "Drama"
+        " Drama"
       ],
       "original_language": "en",
       "overview": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
@@ -47,8 +47,8 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/nvjjd4tbnx.jpg",
       "genres": [
         "Adventure",
-        "Action",
-        "Drama"
+        " Action",
+        " Drama"
       ],
       "original_language": "en",
       "overview": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
@@ -69,8 +69,8 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/kp4vyfpa8b.jpg",
       "genres": [
         "Action",
-        "Crime",
-        "Thriller"
+        " Crime",
+        " Thriller"
       ],
       "original_language": "en",
       "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
@@ -91,7 +91,7 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/1tq4u43wwf.jpg",
       "genres": [
         "Fantasy",
-        "Comedy"
+        " Comedy"
       ],
       "original_language": "en",
       "overview": "A woman and her son enlist a motley crew of so-called spiritual experts to help rid their home of supernatural squatters.",
@@ -112,8 +112,8 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/4yxeyq2o1k.jpg",
       "genres": [
         "Comedy",
-        "Adventure",
-        "Fantasy"
+        " Adventure",
+        " Fantasy"
       ],
       "original_language": "en",
       "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
@@ -134,10 +134,10 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/zv15772eut.jpg",
       "genres": [
         "Animation",
-        "Comedy",
-        "Family",
-        "Fantasy",
-        "Romance"
+        " Comedy",
+        " Family",
+        " Fantasy",
+        " Romance"
       ],
       "original_language": "en",
       "overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
@@ -158,7 +158,7 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/2pqmfzopqq.jpg",
       "genres": [
         "Action",
-        "Thriller"
+        " Thriller"
       ],
       "original_language": "en",
       "overview": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
@@ -179,8 +179,8 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/p369xj1lon.jpg",
       "genres": [
         "Animation",
-        "Action",
-        "Adventure"
+        " Action",
+        " Adventure"
       ],
       "original_language": "en",
       "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
@@ -201,8 +201,8 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/tw9rw78qoq.jpg",
       "genres": [
         "Action",
-        "Adventure",
-        "Science Fiction"
+        " Adventure",
+        " Science Fiction"
       ],
       "original_language": "en",
       "overview": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
@@ -223,8 +223,8 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/2he6f40h5q.jpg",
       "genres": [
         "Action",
-        "Thriller",
-        "Crime"
+        " Thriller",
+        " Crime"
       ],
       "original_language": "en",
       "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
@@ -245,10 +245,10 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/0r81x6xczm.jpg",
       "genres": [
         "Animation",
-        "Family",
-        "Adventure",
-        "Fantasy",
-        "Comedy"
+        " Family",
+        " Adventure",
+        " Fantasy",
+        " Comedy"
       ],
       "original_language": "en",
       "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
@@ -269,8 +269,8 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/sonsvqph6g.jpg",
       "genres": [
         "Animation",
-        "Comedy",
-        "Action"
+        " Comedy",
+        " Action"
       ],
       "original_language": "en",
       "overview": "After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers through heroic acts. Their new friend April O'Neil helps them take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them.",
@@ -291,7 +291,7 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/yw8zblwiln.jpg",
       "genres": [
         "Drama",
-        "History"
+        " History"
       ],
       "original_language": "en",
       "overview": "The story of J. Robert Oppenheimer’s role in the development of the atomic bomb during World War II.",
@@ -312,9 +312,9 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/3fxqsoozid.jpg",
       "genres": [
         "Adventure",
-        "Family",
-        "Fantasy",
-        "Romance"
+        " Family",
+        " Fantasy",
+        " Romance"
       ],
       "original_language": "en",
       "overview": "The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy.",
@@ -335,8 +335,8 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/xtoqnlgiyd.jpg",
       "genres": [
         "Horror",
-        "Mystery",
-        "Crime"
+        " Mystery",
+        " Crime"
       ],
       "original_language": "en",
       "overview": "Obsessed with teaching his victims the value of life, a deranged, sadistic serial killer abducts the morally wayward. Once captured, they must face impossible choices in a horrific game of survival. The victims must fight to win their lives back, or die trying...",
@@ -357,8 +357,8 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/twkrtig0ga.jpg",
       "genres": [
         "Science Fiction",
-        "Adventure",
-        "Action"
+        " Adventure",
+        " Action"
       ],
       "original_language": "en",
       "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
@@ -379,8 +379,8 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/bcwhnfkeag.jpg",
       "genres": [
         "Action",
-        "Adventure",
-        "Science Fiction"
+        " Adventure",
+        " Science Fiction"
       ],
       "original_language": "en",
       "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
@@ -401,8 +401,8 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/02y2vlaxe9.jpg",
       "genres": [
         "Adventure",
-        "Action",
-        "Science Fiction"
+        " Action",
+        " Science Fiction"
       ],
       "original_language": "en",
       "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
@@ -423,9 +423,9 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/p6ydaicfpp.jpg",
       "genres": [
         "Animation",
-        "Family",
-        "Adventure",
-        "Comedy"
+        " Family",
+        " Adventure",
+        " Comedy"
       ],
       "original_language": "en",
       "overview": "Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.",
@@ -446,8 +446,8 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/4vz97op5y2.jpg",
       "genres": [
         "Adventure",
-        "Drama",
-        "Family"
+        " Drama",
+        " Family"
       ],
       "original_language": "en",
       "overview": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.",
@@ -468,7 +468,7 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/0ti8kfd1n8.jpg",
       "genres": [
         "Action",
-        "Drama"
+        " Drama"
       ],
       "original_language": "en",
       "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
@@ -489,7 +489,7 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/6ha37rbtaa.jpg",
       "genres": [
         "Adventure",
-        "Fantasy"
+        " Fantasy"
       ],
       "original_language": "en",
       "overview": "When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.",
@@ -510,7 +510,7 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/piihneq9w7.jpg",
       "genres": [
         "Action",
-        "Adventure"
+        " Adventure"
       ],
       "original_language": "en",
       "overview": "A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.",
@@ -531,8 +531,8 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/hcd63galul.jpg",
       "genres": [
         "Mystery",
-        "Thriller",
-        "Crime"
+        " Thriller",
+        " Crime"
       ],
       "original_language": "en",
       "overview": "Celebrated sleuth Hercule Poirot, now retired and living in self-imposed exile in Venice, reluctantly attends a Halloween séance at a decaying, haunted palazzo. When one of the guests is murdered, the detective is thrust into a sinister world of shadows and secrets.",
@@ -553,7 +553,7 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/9axle2d4wj.jpg",
       "genres": [
         "Drama",
-        "Crime"
+        " Crime"
       ],
       "original_language": "en",
       "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
@@ -574,8 +574,8 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/4wqr6g4a28.jpg",
       "genres": [
         "Animation",
-        "Comedy",
-        "Family"
+        " Comedy",
+        " Family"
       ],
       "original_language": "en",
       "overview": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
@@ -596,7 +596,7 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/6xefycbew8.jpg",
       "genres": [
         "Drama",
-        "Romance"
+        " Romance"
       ],
       "original_language": "en",
       "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
@@ -617,7 +617,7 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/hhl2nc1bz5.jpg",
       "genres": [
         "Science Fiction",
-        "Adventure"
+        " Adventure"
       ],
       "original_language": "en",
       "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
@@ -638,8 +638,8 @@ const movies = [
       "image": "https://moviestack.onrender.com/static/151vjyzxs8.jpg",
       "genres": [
         "Science Fiction",
-        "Action",
-        "Adventure"
+        " Action",
+        " Adventure"
       ],
       "original_language": "en",
       "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
