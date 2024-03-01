@@ -27,3 +27,9 @@ html {
     background-color: rgb(160, 160, 160);
     border-radius: 5rem;
 } 
+[data-fav="botonFav"]{
+    background-color: rgba(128, 128, 128, 0.774) !important;
+}
+[data-fav="botonFavPrendido"]{
+    background-color: rgba(255, 31, 31, 0.637) !important;
+}
