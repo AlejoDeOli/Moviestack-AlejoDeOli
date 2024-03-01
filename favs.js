@@ -29,12 +29,13 @@ fetch( $url, init)//Trae la API
     render (moviesFavorites, divMain, crearCard)//Imprime solo las cards que esten influidas en el local storage
     actualizarBotones(favorites)//Pinta los botones de favoritos
 
-     if(moviesFavorites.length == 0){
+    if(moviesFavorites.length == 0){
         const favoritesMessage = document.createElement(`p`)
         favoritesMessage.textContent = `There are no movies saved in your favorites.`
         divMain.appendChild(favoritesMessage);
         divMain.className = `text-xs my-4 mx-6 md:my-16 md:mx-28 md:p-10 text-white border-2 rounded-lg border-solid border-slate-500 bg-black bg-opacity-20 font-serif md:text-xl text-center leading-relaxed`
     }
+
 })//Trae el array de movies y lo declaro, asocio toda funcion que deba usarse fuera, adentro.
 .catch(err => console.log(`error`, err))//Limpia el error
 
@@ -56,5 +57,13 @@ $contenedor.addEventListener(`click`, (e) => {
    
     const moviesFavorites = movies.filter(movie => favorites.includes(movie.id));
     render (moviesFavorites, divMain, crearCard)//Volvemos a filtrar el array y volvemos a imprimir las cards sin la card sacada de favoritos
+    
+    if(moviesFavorites.length == 0){
+        const favoritesMessage = document.createElement(`p`)
+        favoritesMessage.textContent = `There are no movies saved in your favorites.`
+        divMain.appendChild(favoritesMessage);
+        divMain.className = `text-xs my-4 mx-6 md:my-16 md:mx-28 md:p-10 text-white border-2 rounded-lg border-solid border-slate-500 bg-black bg-opacity-20 font-serif md:text-xl text-center leading-relaxed`
+    }
+
     actualizarBotones(favorites)
 }) //Utilizamos el e target para diferenciar donde apretamos y saber que contiene los ID de las movies(El boton)
