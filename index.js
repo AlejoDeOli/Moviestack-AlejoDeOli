@@ -65,6 +65,7 @@ select.addEventListener("change", () => {
     }else{
         render(movieFilters, divMain, crearCard)
     }
+    actualizarBotones(favorites)
 })//Filtro
 
 
@@ -76,5 +77,6 @@ $inputText.addEventListener(`input`, () => {
     }else{
         render(movieFilters, divMain, crearCard)
     }
+    actualizarBotones(favorites)
 })//Filtro
 
